@@ -3,6 +3,12 @@
   <h1 style="color:#FF5733; font-family: 'Segoe UI', sans-serif;">🌈 Nav Ranga — E-Commerce Platform</h1>
   <p style="font-size:18px; color:#555;">Three Dedicated Dashboards — <strong>Customer • Seller • Admin</strong></p>
   <hr style="border: 1px solid #FF5733; width: 50%;">
+
+   <!-- Video Link at the Top -->
+  <p style="margin-top:10px; font-size:16px;">
+    🎬 <strong>Watch the full demo video here:</strong> 
+    <a href="https://youtu.be/dB71PlN2lfM" target="_blank" style="color:#FF5733; text-decoration:none;">Click to Play</a>
+  </p>
 </div>
 
 <!-- Overview -->
