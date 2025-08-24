@@ -84,6 +84,16 @@
   </p>
 </section>
 
+<section id="screenshots">
+  <h2>📸 Screenshots</h2>
+  <p>Swipe through key dashboards of Nav Ranga:</p>
+  <div align="center">
+    <img width="1920" height="1080" alt="Screenshot 2025-08-25 001541" src="https://github.com/user-attachments/assets/73504224-7530-4155-81fc-f3b2f92ee8ca" />
+    <img width="1920" height="1080" alt="Screenshot 2025-08-25 001614" src="https://github.com/user-attachments/assets/523e9a8c-0301-445b-83e5-38f1574f22c6" />
+    <img width="1920" height="1080" alt="Screenshot 2025-08-25 001643" src="https://github.com/user-attachments/assets/29610302-dab4-492e-955b-a609df0a2435" />
+
+  </div>
+</section>
 <!-- Footer -->
 <div align="center" style="margin-top:30px;">
   <p>Made with ❤️ by <strong>Sarthak Rastogi & Ayush Rastogi</strong></p>
