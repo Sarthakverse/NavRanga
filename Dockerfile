@@ -1,8 +1,18 @@
-FROM maven:3.8.5-openjdk-17 AS build
-COPY . .
-RUN mvn clean package -DskipTests
+# Use the official OpenJDK 17 image as a base
+FROM maven:3.8.4-openjdk-17 AS build
 
-FROM openjdk:17.0.1-jdk-slim
-COPY --from=build target/TradeXpert-0.0.1-SNAPSHOT.jar TradeXpert.jar
+# Set the working directory inside the container
+WORKDIR /app
+
+# Add a volume to store logs
+VOLUME /tmp
+
+# Copy the JAR file to the container
+ARG JAR_FILE=target/*.jar
+COPY ${JAR_FILE} app.jar
+
+# Expose port 8080 (or your configured port)
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "TradeXpert.jar"]
+
+# Run the Spring Boot app
+ENTRYPOINT ["java", "-jar", "app.jar"]
