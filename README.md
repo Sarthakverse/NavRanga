@@ -8,6 +8,7 @@
   <p style="margin-top:10px; font-size:16px;">
     🎬 <strong>Watch the full demo video here:</strong> 
     <a href="https://youtu.be/dB71PlN2lfM" target="_blank" style="color:#FF5733; text-decoration:none;">Click to Play</a>
+    <a href="https://medium.com/@rsarthakverse123/navranga-a-complete-e-commerce-platform-d6631cd7dd3a" target="_blank" style="color:#FF5733; text-decoration:none;">Click to read document</a>
   </p>
 </div>
 
