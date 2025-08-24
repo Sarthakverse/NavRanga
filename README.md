@@ -80,5 +80,5 @@
 
 <!-- Footer -->
 <div align="center" style="margin-top:30px;">
-  <p>Made with ❤️ by <strong>Naval Rastogi</strong></p>
+  <p>Made with ❤️ by <strong>Sarthak Rastogi & Ayush Rastogi</strong></p>
 </div>
